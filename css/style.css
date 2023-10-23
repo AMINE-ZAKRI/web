@@ -293,7 +293,7 @@ button {
   text-align: center;
   padding: 0;
   border-radius: 3px;
-  background: var(--colorPrimary);
+  background: #000000;
   color: var(--colorWhite);
   margin-right: 12px;
   -webkit-border-radius: 3px;
